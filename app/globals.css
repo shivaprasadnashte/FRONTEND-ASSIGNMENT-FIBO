@@ -16,6 +16,20 @@
   }
 }
 
+goal:{
+  /* Outer Circle */
+
+position: absolute;
+width: 48.02px;
+height: 47.68px;
+left: 17px;
+top: 12.64px;
+
+background: #0E77D9;
+mix-blend-mode: overlay;
+
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
